@@ -3,13 +3,13 @@ img {
   width: 450px;
   margin-left: 7px;
 }
-.panel {
+/* .panel {
   height: 350px;
   width: 500px;
   float: left;
   margin: 35px;
 
-}
+} */
 body {
     background-color: lightgray;
 }
@@ -20,7 +20,5 @@ body {
   outline: 3px solid salmon;
 }
 blockquote {
-  margin-left: 55px;
-  background-color: salmon;
-  width: 600px;
+  background-color: lightsalmon;
 }
