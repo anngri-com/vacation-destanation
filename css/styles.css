@@ -1,15 +1,3 @@
-img {
-  height: 275px;
-  width: 450px;
-  margin-left: 7px;
-}
-/* .panel {
-  height: 350px;
-  width: 500px;
-  float: left;
-  margin: 35px;
-
-} */
 body {
     background-color: lightgray;
 }
@@ -21,4 +9,12 @@ body {
 }
 blockquote {
   background-color: lightsalmon;
+}
+.row {
+  display: flex;
+  width: 100%;
+}
+.col-md-6 {
+  flex: 1;
+  padding: 16px;
 }
