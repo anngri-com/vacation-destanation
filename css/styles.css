@@ -17,5 +17,10 @@ body {
   background-color: salmon;
 }
 .panel-heading:hover {
-  sha
+  outline: 3px solid salmon;
+}
+blockquote {
+  margin-left: 55px;
+  background-color: salmon;
+  width: 600px;
 }
